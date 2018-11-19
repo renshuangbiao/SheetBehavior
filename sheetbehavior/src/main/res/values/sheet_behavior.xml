@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SheetBehavior">
+        <attr name="hiddenEnable" format="boolean"/>
+        <attr name="slideMode" format="enum">
+            <enum name="top" value="1"/>
+            <enum name="bottom" value="2"/>
+            <enum name="left" value="3"/>
+            <enum name="right" value="4"/>
+        </attr>
+        <attr name="peekHeight" format="dimension"/>
+    </declare-styleable>
+</resources>
