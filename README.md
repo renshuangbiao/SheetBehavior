@@ -1,7 +1,7 @@
 # SheetBehavior
 在BottomSheetBehavior(version 27.1.1)的基础上扩展支持上下左右四个方向
 ## 实现效果
-![效果预览](https://github.com/renshuangbiao/SheetBehavior/blob/master/gif/1542618162097.gif)
+<div align=center width = "320" height = "640">![效果预览](https://github.com/renshuangbiao/SheetBehavior/blob/master/gif/1542618162097.gif)
 ##SheetBehavior的使用
 SheetBehavior 使用需要CoordinatorLayout作为父布局，SheetBehavior 的布局作为CoordinatorLayout 的子布局，并且加上app:behavior=”com.android.sheetbehavior.SheetBehavior”
     
