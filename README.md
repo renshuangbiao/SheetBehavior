@@ -19,6 +19,7 @@ SheetBehavior 使用需要CoordinatorLayout作为父布局，SheetBehavior 的�
 	        android:id="@+id/design_sheet"
 	        app:layout_behavior="com.android.sheetbehavior.SheetBehavior"
 	        app:peekHeight="50dp"
+	        app:slideMode="right"
 	        android:layout_width="wrap_content"
 	        android:layout_height="wrap_content"/>
     
